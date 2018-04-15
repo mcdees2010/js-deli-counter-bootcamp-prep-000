@@ -20,5 +20,5 @@ function currentLine(katzDeliLine) {
   const array = []
   
   do {
-    array.push
+    array.push(`")
   }
