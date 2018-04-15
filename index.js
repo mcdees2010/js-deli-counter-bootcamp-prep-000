@@ -20,3 +20,4 @@ function currentLine(katzDeliLine) {
  const array = [];
  
  let i = 0
+ while
