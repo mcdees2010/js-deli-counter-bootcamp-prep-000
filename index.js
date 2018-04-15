@@ -21,7 +21,7 @@ function currentLine(katzDeliLine) {
   if( i > 0 ) {
     print(`The line is currently: ${katzDeliLine}"`)
     else {
-      print("")
+      print("The line is currently empty.")
     }
   }
 }
