@@ -19,6 +19,9 @@ function nowServing(katzDeliLine) {
 function currentLine(katzDeliLine) {
   for( i = 0; i < katzDeliLine.length; i++)
   if( i > 0 ) {
-    print("")
+    print(`The line is currently: ${katzDeliLine}"`)
+    else {
+      print("")
+    }
   }
 }
