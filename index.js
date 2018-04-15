@@ -20,7 +20,7 @@ function currentLine(katzDeliLine) {
   for( i = 0; i < katzDeliLine.length; i++)
   if( i > 0 ) {
     print(`The line is currently: ${katzDeliLine}"`)
-    else {
+    else; {
       print("The line is currently empty.")
     }
   }
