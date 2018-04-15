@@ -17,12 +17,4 @@ function nowServing(katzDeliLine) {
 }
 
 function currentLine(katzDeliLine) {
-  const array = []
-  
-  do {
-    array.push(`"The line is currently: ${katzDeliLine]"`)
-    n++;
-    }
-    while {
-      
-    }
+ 
