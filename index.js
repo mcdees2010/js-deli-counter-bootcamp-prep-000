@@ -20,12 +20,12 @@ function currentLine(katzDeliLine) {
  const array = [];
  
  let i = 0
- while (i < katzDeliLine.length) {
+ if(i < katzDeliLine.length) {
    array.push(`"The line is currently: ${katzDeliLine}"`)
    i++;
-   else{
-     array.push()
-   }
  }
+   else{
+     array.push("The line is currently empty.")
+   }
  return array
 }
