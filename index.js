@@ -19,4 +19,6 @@ function nowServing(katzDeliLine) {
 function currentLine(katzDeliLine) {
   const array = []
   
-  
+  do {
+    
+  }
