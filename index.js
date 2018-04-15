@@ -20,5 +20,6 @@ function currentLine(katzDeliLine) {
   const array = []
   
   do {
-    array.push(`")
+    array.push(`"The line is currently: ${katzDeliLine]"`)
+    
   }
